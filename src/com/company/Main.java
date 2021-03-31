@@ -6,6 +6,7 @@ public class Main {
         System.out.println("TEST_MW");
         System.out.println("Mój drugi commit_MW");
         System.out.println("Mój inny commit_MW");
+        System.out.println("Kolejny commit_MW");
 	// write your code here
     }
 }
